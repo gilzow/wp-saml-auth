@@ -1,7 +1,7 @@
 {
-    "name": "pantheon-systems/wp-saml-auth",
-    "description": "SAML authentication for WordPress, using SimpleSAMLphp.",
-    "type": "wordpress-plugin",
+    "name": "mizzou/wp-saml-auth",
+    "description": "Debug version of SAML authentication for WordPress, using SimpleSAMLphp.",
+    "type": "wordpress-muplugin",
     "license": "GPL-2.0-or-later",
     "authors": [
         {
